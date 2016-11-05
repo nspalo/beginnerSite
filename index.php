@@ -52,6 +52,9 @@
 				</li>
 				<li>
 					<a href="about-us.php">About us</a>
+				</li>				
+				<li>
+					<a href="contact-us.php">Contact us</a>
 				</li>
 			</ul>
 			<ul class="nav navbar-nav navbar-right">

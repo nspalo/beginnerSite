@@ -90,9 +90,15 @@
 				<small>Subheading</small>
 			</h1>
 			<ol class="breadcrumb">
-				<li><a href="index.php">Home</a>
+				<li>
+					<a href="index.php">Home</a>
 				</li>
-				<li class="active">About us</li>
+				<li>
+					<a href="about-us.php">About us</a>
+				</li>				
+				<li>
+					<a href="contact-us.php">Contact us</a>
+				</li>
 			</ol>
 		</div>
 	</div>
