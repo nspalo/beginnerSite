@@ -1,0 +1,17 @@
+/*
+ * BeginnerSite Custom Style
+ */
+
+.page-content,
+.carousel-holder
+{
+	margin-top: 50px;
+}
+
+.img-center {
+    margin: 0 auto;
+}
+
+.text-center {
+    text-align: center;
+}
