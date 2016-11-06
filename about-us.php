@@ -53,6 +53,9 @@
 				<li>
 					<a href="about-us.php">About us</a>
 				</li>
+				<li>
+					<a href="contact-us.php">Contact us</a>
+				</li>
 			</ul>
 			<ul class="nav navbar-nav navbar-right">
 				<li>
@@ -90,15 +93,8 @@
 				<small>Subheading</small>
 			</h1>
 			<ol class="breadcrumb">
-				<li>
-					<a href="index.php">Home</a>
-				</li>
-				<li>
-					<a href="about-us.php">About us</a>
-				</li>				
-				<li>
-					<a href="contact-us.php">Contact us</a>
-				</li>
+				<li><a href="index.php">Home</a></li>
+				<li class="active">About us</li>
 			</ol>
 		</div>
 	</div>
